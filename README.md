@@ -9,6 +9,6 @@ An image scrapper using Selenium is already build in my repository:- https://git
 ## Screens
 <p>
 <img src="assets/one.jpg" height="300em" />
-<img src="images/two.jpg" height="300em" />
+<img src="assets/two.jpg" height="300em" />
 </p>
 
