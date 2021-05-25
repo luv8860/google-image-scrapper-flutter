@@ -2,7 +2,7 @@
 
 ## Description 
 
-An image scrapper using Selenium is already build in my repository:- https://github.com/luv8860/Google-Image-Scrapper-with-Selenium  and this is the UI for that. This Project explains how to connect each other .
+An image scrapper using Selenium is already build in my repository:- https://github.com/luv8860/google-image-scrapper-flutter/tree/main/Google-Image-Scrapper-with-Selenium-main  and this is the UI for that. This Project explains how to connect each other .
 
 
 ## Screens
